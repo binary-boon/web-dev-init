@@ -1,6 +1,11 @@
+import Links from "./Links/Links"
+
 const Navbar =() =>{
-return(<div>
-    Navbar
+return(<div><div>Logo</div>
+    
+    <div>
+    <Links/>
+    </div>
 </div>)
 }
 
